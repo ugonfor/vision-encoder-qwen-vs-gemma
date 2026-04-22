@@ -1,0 +1,45 @@
+{
+  "n_images": 64,
+  "image_size": 224,
+  "dataset": "cifar10-test",
+  "qwen_layers": 27,
+  "gemma_layers": 27,
+  "qwen_hidden": [
+    1152
+  ],
+  "gemma_hidden": [
+    1152
+  ],
+  "cka_diagonal_mean": 0.6581491827964783,
+  "cka_diagonal_min": 0.1777210533618927,
+  "cka_diagonal_max": 0.785968542098999,
+  "best_gemma_for_each_qwen_layer": [
+    6,
+    7,
+    8,
+    8,
+    8,
+    9,
+    10,
+    14,
+    14,
+    18,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    26,
+    18
+  ]
+}
